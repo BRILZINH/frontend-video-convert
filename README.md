@@ -8,11 +8,17 @@ Fiz uma interface de conversor de video para audio,algo que eu queria fazer,e po
 fiz os codigos acompanhando video de um profissional fazendo um site do zero,mais enfim demorei um pouco para fazer,claro no meio
 dos codigos eu usei um pouco da IA do Github Copilot no vs code para me ajudar um pouco, to muito feliz pela meu projeto
 demorei um pouco,mas consegui.
-Eu tentei deixar o mais organizado que eu podia,coloquei no html usando SECTION 1, SECTION 2 e SECTION 3 
+Eu tentei deixar o mais organizado que eu podia,separei algumas partes em seções
+
 
 entre outra tags,nao conseguir deixar bem organizado como devia ter ficado,mas na proxima vez eu irei focar mais na organização.
 Obrigado pela atenção!!
 
+Durante o desenvolvimento aprendi:
+- Estruturação de páginas com HTML.
+- Estilização com CSS.
+- Organização de seções e componentes.
+- Boas práticas básicas de front-end.
 
 <!DOCTYPE html>
 <html lang="pt-br">
